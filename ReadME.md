@@ -8,4 +8,3 @@
 
 ### Reading Notes : node app.js read --title="Notes Title"
 
-## Create By Masum Paswan
